@@ -4,7 +4,7 @@
   "description": "Aula: https://www.udemy.com/course/projeto-completo-xd-nodejs-mongodb-react-native-e-react/learn/lecture/18473600#overview",
   "main": "index.js",
   "scripts": {
-    "start": "echo \"nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
