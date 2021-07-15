@@ -33,3 +33,19 @@ src
 - Navegador só faz Get, nao faz post... então por isso vamos usar o insomnia para testar a API
 
 obs: Mongo vs Mysql: https://www.leak.pt/mongodb-vs-mysql/
+
+=============
+
+Components e React Native:
+
+"react native ui lib" #1
+https://wix.github.io/react-native-ui-lib/
+
+"react native paper"
+https://callstack.github.io/react-native-paper/
+
+"UI Kitten 5.0"
+https://akveo.github.io/react-native-ui-kitten/
+
+Component Slider:
+https://github.com/meliorence/react-native-snap-carousel
