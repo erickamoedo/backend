@@ -47,10 +47,24 @@ https://callstack.github.io/react-native-paper/
 "UI Kitten 5.0"
 https://akveo.github.io/react-native-ui-kitten/
 
-Component Slider:
+"Component Slider:"
 https://github.com/meliorence/react-native-snap-carousel
+
+"Galio:"
+https://galio.io/built-with-galio
+https://www.youtube.com/watch?v=enyXSM1V6kc
+
+"Graficos para Reactive Native:"
+https://www.npmjs.com/package/react-native-chart-kit
 
 ========================
 
 se eu for usar MySQL, preciso usar:
 https://www.udemy.com/course/aplicativo-financeiro-com-react-native/
+
+https://www.udemy.com/course/react-native-design-de-aplicativos/
+
+# Speedcode dahora:
+
+Page de perfil:
+https://www.youtube.com/watch?v=p4muY3GPc0s
