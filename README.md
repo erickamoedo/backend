@@ -49,3 +49,8 @@ https://akveo.github.io/react-native-ui-kitten/
 
 Component Slider:
 https://github.com/meliorence/react-native-snap-carousel
+
+========================
+
+se eu for usar MySQL, preciso usar:
+https://www.udemy.com/course/aplicativo-financeiro-com-react-native/
